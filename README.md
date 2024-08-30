@@ -49,7 +49,8 @@ roll-rs uses Discord's slash commands for easy interaction. Here are some exampl
 
 - `/r [dice notation]`: Roll dice using standard notation or "keep highest" notation.
 - `/save [dice notation] [name]`: Save a dice roll configuration.
-- `/hello`: A simple greeting command to check if the bot is responsive.
+- `/view`: View saved rolls.
+- `/remove [name]`: Remove a saved roll configuration.
 
 ## Advanced Usage
 
